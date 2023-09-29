@@ -1,0 +1,12 @@
+.card {
+  background: #f3f3f3;
+  border: 1px solid grey;
+  text-decoration: none;
+}
+.card:hover {
+  background: white;
+}
+
+.img {
+  padding: 20px;
+}
